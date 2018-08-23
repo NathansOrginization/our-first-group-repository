@@ -2,7 +2,7 @@
  * @(#)Greetings.java
  *
  *
- * @author 
+ * @author
  * @version 1.00 2014/6/27
  */
 
@@ -13,8 +13,8 @@ public class Greetings {
     	String firstName = args[0];
     	String lastName = args[1];
     	System.out.println("Hello, " + firstName + " " + lastName);
-    	System.out.println("Congratulations on your second program!");
+    	System.out.println("Congratulations on your fourth program!");
     }
-    
-    
+
+
 }
