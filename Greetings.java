@@ -13,7 +13,7 @@ public class Greetings {
     	String firstName = args[0];
     	String lastName = args[1];
     	System.out.println("Hello, " + firstName + " " + lastName);
-    	System.out.println("Congratulations on your third program!");
+    	System.out.println("Congratulations on your fourth program!");
     }
 
 
